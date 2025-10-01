@@ -1,0 +1,51 @@
+filename,true_label,predicted_label,confidence
+Scab (3389).jpg,Apple___Apple_scab,Apple___Apple_scab,92.36
+Scab (3420).jpg,Apple___Apple_scab,Apple___Apple_scab,84.92
+Scab (3501).jpg,Apple___Apple_scab,Apple___Apple_scab,98.71
+Scab (3953).jpg,Apple___Apple_scab,Apple___Apple_scab,94.22
+Scab (3974).jpg,Apple___Apple_scab,Apple___Apple_scab,92.01
+Scab (3982).jpg,Apple___Apple_scab,Apple___Apple_scab,99.98
+Scab (4168).jpg,Apple___Apple_scab,Apple___Apple_scab,99.45
+Scab (4193).jpg,Apple___Apple_scab,Apple___Apple_scab,97.43
+Scab (4764).jpg,Apple___Apple_scab,Apple___Apple_scab,99.64
+Scab (4766).jpg,Apple___Apple_scab,Apple___Apple_scab,96.33
+af952e46-4478-4672-a9dc-b0ed14cc1f8c___JR_FrgE.S 8598.JPG,Apple___Black_rot,Apple___Black_rot,99.93
+bb4461e1-297a-4f68-b5d7-9d469489ee67___JR_FrgE.S 2871.JPG,Apple___Black_rot,Apple___Black_rot,99.8
+black_rot1.JPG,Apple___Black_rot,Apple___Black_rot,99.98
+black_rot2.JPG,Apple___Black_rot,Apple___Black_rot,99.97
+cc0f71b0-af7d-49e2-b7df-a45e97caab2c___JR_FrgE.S 8796.JPG,Apple___Black_rot,Apple___Black_rot,86.14
+d8735c39-eb57-460b-bff1-7946a6d3a543___JR_FrgE.S 2935.JPG,Apple___Black_rot,Apple___Black_rot,92.79
+ddbcb13e-0263-4881-9e1b-6f00d67f7217___JR_FrgE.S 8683.JPG,Apple___Black_rot,Apple___Black_rot,99.54
+e528fe87-6133-4d89-88b0-2a37aaa07f16___JR_FrgE.S 8729.JPG,Apple___Black_rot,Apple___Black_rot,99.86
+eb36abb9-44c2-47e1-86fe-36c834ed7add___JR_FrgE.S 8644.JPG,Apple___Black_rot,Apple___Black_rot,99.86
+eb98c4ac-28e3-40ef-8cf4-38acddd5d774___JR_FrgE.S 3043.JPG,Apple___Black_rot,Apple___Black_rot,62.6
+24f68f21-8edb-49df-b0f1-d75ac66631fd___FREC_C.Rust 9937.JPG,Apple___Cedar_apple_rust,Apple___Cedar_apple_rust,100.0
+46597071-9826-4f76-b853-083b76c5ef63___FREC_C.Rust 3666.JPG,Apple___Cedar_apple_rust,Apple___Cedar_apple_rust,99.27
+_1007_2024153.png,Apple___Cedar_apple_rust,Apple___Cedar_apple_rust,80.31
+_1138_9015169.png,Apple___Cedar_apple_rust,Apple___Cedar_apple_rust,100.0
+_252_6973794.png,Apple___Cedar_apple_rust,Apple___Cedar_apple_rust,99.54
+_320_8298562.png,Apple___Cedar_apple_rust,Apple___Cedar_apple_rust,99.99
+_433_9639825.png,Apple___Cedar_apple_rust,Apple___Cedar_apple_rust,98.98
+_611_2531783.png,Apple___Cedar_apple_rust,Apple___Cedar_apple_rust,99.93
+_715_1045526.png,Apple___Cedar_apple_rust,Apple___Cedar_apple_rust,99.88
+_897_9919861.png,Apple___Cedar_apple_rust,Apple___Cedar_apple_rust,99.73
+f109ab3b-0e85-47e6-9c7b-fe1b7a52a530___RS_HL 7975.JPG,Apple___healthy,Apple___healthy,100.0
+f1d26177-d15c-43ee-80e5-6246edc6556c___RS_HL 7713.JPG,Apple___healthy,Apple___healthy,99.89
+f2e3e754-4307-440e-8055-1261b7c5c53f___RS_HL 7724.JPG,Apple___healthy,Apple___healthy,100.0
+f7ac955e-05a2-455a-88aa-2771234e9be0___RS_HL 7530.JPG,Apple___healthy,Apple___healthy,100.0
+f85e6b2c-e4b2-42fe-99db-9583b58bb51b___RS_HL 6112.JPG,Apple___healthy,Apple___healthy,100.0
+fa3dec4b-5fed-4ba4-808f-25b6b84c7c87___RS_HL 7525.JPG,Apple___healthy,Apple___healthy,100.0
+fac07867-acdd-4a19-8be5-987958575af0___RS_HL 5972.JPG,Apple___healthy,Apple___healthy,99.86
+fe0701b3-d2f2-46b1-b88d-6ce5a6b2a687___RS_HL 7507.JPG,Apple___healthy,Apple___healthy,100.0
+fe768ce6-56c8-408f-921d-7c7d991bb742___RS_HL 7357.JPG,Apple___healthy,Apple___healthy,100.0
+feaf718b-59f2-4aa4-b36a-2b2786ee8b46___RS_HL 6141.JPG,Apple___healthy,Apple___healthy,100.0
+Powdery mildew (2287).jpg,Apple___powdery_mildew,Apple___Powdery_mildew,97.81
+Powdery mildew (2302).jpg,Apple___powdery_mildew,Apple___Apple_scab,68.22
+Powdery mildew (2311).jpg,Apple___powdery_mildew,Apple___Apple_scab,59.1
+Powdery mildew (2319).jpg,Apple___powdery_mildew,Apple___Powdery_mildew,98.59
+Powdery mildew (2323).jpg,Apple___powdery_mildew,Apple___Powdery_mildew,99.95
+Powdery mildew (2324).jpg,Apple___powdery_mildew,Apple___Powdery_mildew,99.89
+Powdery mildew (2334).jpg,Apple___powdery_mildew,Apple___Powdery_mildew,85.89
+Powdery mildew (2338).jpg,Apple___powdery_mildew,Apple___Powdery_mildew,98.68
+Powdery mildew (2339).jpg,Apple___powdery_mildew,Apple___Powdery_mildew,99.93
+Powdery mildew (2359).jpg,Apple___powdery_mildew,Apple___Powdery_mildew,99.99

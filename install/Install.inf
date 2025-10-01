@@ -1,0 +1,10 @@
+your-project-folder/
+├── app.py
+├── apple_disease_mobilenet.h5
+├── templates/
+│   ├── index.html
+│   ├── result.html
+│   └── dashboard.html
+├── static/
+│   └── uploads/ (will be created automatically)
+└── user_feedback/ (will be created automatically)
