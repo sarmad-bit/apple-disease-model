@@ -40,7 +40,7 @@ The model classifies apple leaf images into the following categories:
 * Black Rot
 * Cedar Apple Rust
 * Healthy Apple Leaf
-* Other (if included in dataset)
+* Powdery Mildew
 
 ---
 
