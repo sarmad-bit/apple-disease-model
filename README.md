@@ -9,6 +9,8 @@ Apple crops are prone to various leaf diseases that are difficult to detect manu
 
 You can download the models here: 
 Best_model.h5: https://drive.google.com/file/d/1ssd3b9srG3G4QCJi8rFXwWMBUcOVw9mE/view?usp=sharing
+
+
 apple_disease_mobilenet_final.h5 : https://drive.google.com/file/d/1cbzbYks59ZGXczzVIcgn8_dRkjaiJobX/view?usp=sharing
 
 ---
